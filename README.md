@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dattu Ajay! 👋</h1>
+<h1 align="center">Hi there, I'm Gandham Prakash! 👋</h1>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AjayDattu.AjayDattu" alt="visitors"/>
