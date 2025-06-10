@@ -73,6 +73,14 @@ I'm currently pursuing my **B.Tech in Computer Science and Engineering** at **VR
 
 ---
 
+## 📅 Currently Learning
+
+- 🟢 MongoDB – Schema design, CRUD operations, and aggregation
+- 🟡 Express.js – REST API creation and middleware concepts
+- 🔵 React.js – Hooks, component architecture, and state management
+- ⚫ Node.js – Asynchronous programming and backend logic
+
+
 ## 📫 Let's Connect
 📧 [gandhamprakashtech@gmail.com](mailto:gandhamprakashtech@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/gandhamkumarnslprakash)  
