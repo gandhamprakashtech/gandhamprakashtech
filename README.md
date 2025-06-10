@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:gandhamprakashtech@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=green"/></a>
+  <a href="mailto:gandhamprakashtech@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gandhamkumarnslprakash"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/gandhamprakashtech"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
@@ -26,6 +26,7 @@ I'm currently pursuing my **B.Tech in Computer Science and Engineering** at **VR
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
