@@ -13,7 +13,8 @@
 
 ## 👨‍🎓 About Me
 
--B.Tech Graduate in Computer Science. I specialize in building beautiful, interactive web applications using modern technologies such as Next.js, React.js, animation libraries, UI libraries, and Tailwind CSS. I am constantly exploring new tools and frameworks to create optimized user experiences.
+-B.Tech Graduate in Computer Science. I specialize in building beautiful, interactive web applications using modern technologies such as Next.js, React.js, animation libraries, UI libraries, and Tailwind CSS. 
+-I am constantly exploring new tools and frameworks to create optimized user experiences.
 - 🚀 Passionate about building **impactful tech for real-world problems**
 
 ---
@@ -47,11 +48,15 @@
 ---
 
 ## 🏆 Achievements
-
-- 🥇 **1st Place**, VRSEC Innovation Day 2023
-- 🧠 **2nd Place**, 24-Hour Hackathon @ VRSEC, Mar 2024
-- 🧑‍💻 **24th State Rank**, APECET 2022
-- 🏅 Contributed at Microsoft Global AI Summit Hackathon
+- 📄 Published **2 Research Papers** in **Machine Learning** and **Remote Sensing (IEEE)**
+- 🌐 **25K+** Impressions on LinkedIn for technical content & knowledge sharing
+- 🏆 **Top 5%** Rank in AP Polycet 2019
+- 🥇 **Top 1%** Rank (24th State Rank) in APECET 2022
+- 🥇 **2nd Place**, VRSEC Innovation Day 2023
+- 🏅 Contributed at **Microsoft** Global AI Summit Hackathon
+- 🚀 **Finalist** at Synthetix 3.0 Hackathon, VIT Chennai
+- 🤖 Participant, **Global AI Bootcamp** 2025 at Microsoft Campus, Hyderabad
+- 🏆 **Awarded** by UnivBrand for Outstanding Academic Performance
 
 ---
 
