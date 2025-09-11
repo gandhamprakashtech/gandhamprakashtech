@@ -57,13 +57,14 @@
 - 🚀 **Finalist** at Synthetix 3.0 Hackathon, VIT Chennai
 - 🤖 Participant, **Global AI Bootcamp** 2025 at Microsoft Campus, Hyderabad
 - 🏆 **Awarded** by UnivBrand for Outstanding Academic Performance
+- 🚀 Part of **Ratan Tata Innovation Hub** initiative at Vijayawada Collectorate.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛍️ Stumart – Campus Stationery Exchange
-> A React Native + Firebase mobile app enabling over 1500 students to share and exchange stationery in real-time across campus departments.
+>Developed a cross-platform mobile application with React Native and Firebase, facilitating real-time resource sharing for 1000+ students across campus departments. Integrated real-time data synchronization, secure user authentication, and a scalable backend architecture to enhance usability and performance.
 
 ### 🛰️ Satellite-Based Airport Detection (with ISRO & ADRIN)
 > A YOLOv8-powered remote sensing ML pipeline to detect airport facilities with 95%+ accuracy.  
@@ -74,14 +75,6 @@
 > An ML, IoT, and CV-based grading system helping aqua farmers boost efficiency and cut costs by 25%.
 
 ---
-
-## 📅 Currently Learning
-
-- 🟢 MongoDB – Schema design, CRUD operations, and aggregation
-- 🟡 Express.js – REST API creation and middleware concepts
-- 🔵 React.js – Hooks, component architecture, and state management
-- ⚫ Node.js – Asynchronous programming and backend logic
-
 
 ## 📫 Let's Connect
 📧 [gandhamprakashtech@gmail.com](mailto:gandhamprakashtech@gmail.com)  
