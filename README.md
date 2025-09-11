@@ -13,10 +13,7 @@
 
 ## 👨‍🎓 About Me
 
-I'm currently pursuing my **B.Tech in Computer Science and Engineering** at **VRSEC**, with a solid foundation in software engineering and real-world project experience.
-
-- 💼 Currently interning as **Frontend Developer @ Axis Intelligence Inc**
-- ⚙️ Working on **AI-powered and IoT-based solutions** in aqua farming and remote sensing
+-B.Tech Graduate in Computer Science. I specialize in building beautiful, interactive web applications using modern technologies such as Next.js, React.js, animation libraries, UI libraries, and Tailwind CSS. I am constantly exploring new tools and frameworks to create optimized user experiences.
 - 🚀 Passionate about building **impactful tech for real-world problems**
 
 ---
