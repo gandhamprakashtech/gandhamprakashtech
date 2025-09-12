@@ -18,7 +18,7 @@
 
 -B.Tech Graduate in Computer Science. I specialize in building beautiful, interactive web applications using modern technologies such as Next.js, React.js, animation libraries, UI libraries, and Tailwind CSS. 
 -I am constantly exploring new tools and frameworks to create optimized user experiences.
-- 🚀 Passionate about building **impactful tech for real-world problems**
+- 🚀 Passionate about building **impactful tech for real-world problems** 
 
 ---
 
