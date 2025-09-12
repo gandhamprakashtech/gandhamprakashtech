@@ -7,7 +7,10 @@
   <a href="mailto:gandhamprakashtech@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gandhamkumarnslprakash"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/gandhamprakashtech"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@TechnoDevilX"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://x.com/GandhamPrakash_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
+
 
 ---
 
