@@ -28,6 +28,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -40,27 +42,29 @@
 ### Backend & DB
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
 ## 🏆 Achievements
 - 📄 Published **2 Research Papers** in **Machine Learning** and **Remote Sensing (IEEE)**
-- 🌐 **25K+** Impressions on LinkedIn for technical content & knowledge sharing
-- 🏆 **Top 5%** Rank in AP Polycet 2019
-- 🥇 **Top 1%** Rank (24th State Rank) in APECET 2022
-- 🥇 **2nd Place**, VRSEC Innovation Day 2023
-- 🏅 Contributed at **Microsoft** Global AI Summit Hackathon
-- 🚀 **Finalist** at Synthetix 3.0 Hackathon, VIT Chennai
 - 🤖 Participant, **Global AI Bootcamp** 2025 at Microsoft Campus, Hyderabad
-- 🏆 **Awarded** by UnivBrand for Outstanding Academic Performance
+- 🌐 **25K+** Impressions on LinkedIn for technical content & knowledge sharing
+- 🥇 **Top 1%** Rank (24th State Rank) in APECET 2022
+- 🚀 **Finalist** at Synthetix 3.0 Hackathon, VIT Chennai
 - 🚀 Part of **Ratan Tata Innovation Hub** initiative at Vijayawada Collectorate.
+- 🥇 **2nd Place**, VRSEC Innovation Day 2023
+- 🏆 **Awarded** by UnivBrand for Outstanding Academic Performance
+- 🏆 **Top 5%** Rank in AP Polycet 2019
 
 ---
 
