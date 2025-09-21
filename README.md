@@ -81,9 +81,10 @@
 ### 🦐 Shrimp Quality Grading System
 > An ML, IoT, and CV-based grading system helping aqua farmers boost efficiency and cut costs by 25%.
 
----
+--
 
 ## 📫 Let's Connect
 📧 [gandhamprakashtech@gmail.com](mailto:gandhamprakashtech@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/gandhamkumarnslprakash)  
 👨‍💻 [GitHub](https://github.com/gandhamprakashtech)
+
