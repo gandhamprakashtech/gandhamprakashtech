@@ -90,7 +90,7 @@
 
 --
 
-## 📫 Let's Connect
+## 📫 Let's Connect <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 📧 [gandhamprakashtech@gmail.com](mailto:gandhamprakashtech@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/gandhamkumarnslprakash)  
 👨‍💻 [GitHub](https://github.com/gandhamprakashtech)
