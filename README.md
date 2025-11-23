@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gandham Prakash 👋</h1>
 <p align="center">
-  🚀 B.Tech CSE Student | 💻 Aspiring Full Stack Developer | 🌐 Web Development Enthusiast
+  🚀 CS Graduate | 💻 Software Developer 🌐 Crafting Modern Web Applications | 🌐 Web Development Enthusiast
 </p>
 
 <p align="center">
