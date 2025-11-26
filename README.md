@@ -65,12 +65,12 @@
 ## 🏆 Achievements
 - 📄 Published **2 Research Papers** in **Machine Learning** and **Remote Sensing (IEEE)**
 - 🤖 Participant, **Global AI Bootcamp** 2025 at Microsoft Campus, Hyderabad
-- 🌐 **25K+** Impressions on LinkedIn for technical content & knowledge sharing
+- 🌐 **30K+** Impressions on LinkedIn for technical content & knowledge sharing
 - 🥇 **Top 1%** Rank (24th State Rank) in APECET 2022
 - 🚀 **Finalist** at Synthetix 3.0 Hackathon, VIT Chennai
 - 🚀 Part of **Ratan Tata Innovation Hub** initiative at Vijayawada Collectorate.
 - 🥇 **2nd Place**, VRSEC Innovation Day 2023
-- 🏆 **Awarded** by UnivBrand for Outstanding Academic Performance
+- 🏆 **Awarded** First Prize by UnivBrand for Outstanding Academic Performance
 - 🏆 **Top 5%** Rank in AP Polycet 2019
 
 ---
