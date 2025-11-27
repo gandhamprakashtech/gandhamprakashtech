@@ -80,6 +80,11 @@
 ### 🛍️ Stumart – Campus Stationery Exchange
 >Developed a cross-platform mobile application with React Native and Firebase, facilitating real-time resource sharing for 1000+ students across campus departments. Integrated real-time data synchronization, secure user authentication, and a scalable backend architecture to enhance usability and performance.
 
+### 🌱 Plantdarbar
+>Developed a full-stack sustainable e-commerce platform specializing in upcycled plant containers and eco-friendly gardening services. This project taught me how to build custom admin dashboards, implement file upload systems, and create responsive designs with modern CSS techniques.
+>ReactJS, Node.js, RESTful API, HTML5/CSS3, TailwindCSS, Supabase
+
+
 ### 🛰️ Satellite-Based Airport Detection (with ISRO & ADRIN)
 > A YOLOv8-powered remote sensing ML pipeline to detect airport facilities with 95%+ accuracy.  
 > 📄 Published in IEEE: [A Novel Approach to Identify the Airport Facility from Satellite Images](https://ieeexplore.ieee.org/document/10969333)
