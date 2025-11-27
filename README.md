@@ -82,7 +82,7 @@
 
 ### 🌱 Plantdarbar
 >Developed a full-stack sustainable e-commerce platform specializing in upcycled plant containers and eco-friendly gardening services. This project taught me how to build custom admin dashboards, implement file upload systems, and create responsive designs with modern CSS techniques.
->ReactJS, Node.js, RESTful API, HTML5/CSS3, TailwindCSS, Supabase
+>ReactJS, Node.js, RESTful API, HTML5/CSS3, TailwindCSS, Supabase.  [Link](https://www.plantdarbar.com/)
 
 
 ### 🛰️ Satellite-Based Airport Detection (with ISRO & ADRIN)
