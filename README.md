@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2264359-6bf5-4daa-acdd-61c1e457bd31" /><h1 align="center">Hi, I'm Gandham Prakash 👋</h1>
+<h1 align="center">Hi, I'm Gandham Prakash 👋</h1>
 <p align="center">
   🚀 CS Graduate | 💻 Software Developer 🌐 Crafting Modern Web Applications | 🌐 Web Development Enthusiast
 </p>
