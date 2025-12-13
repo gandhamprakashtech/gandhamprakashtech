@@ -1,109 +1,119 @@
 <h1 align="center">Hi, I'm Gandham Prakash 👋</h1>
+
 <p align="center">
-  🚀 CS Graduate | 💻 Software Developer 🌐 Crafting Modern Web Applications | 🌐 Web Development Enthusiast
+🚀 CS Graduate | 💻 Software Developer | 🌐 Web Development Enthusiast  
+Crafting modern, scalable, and user-focused web applications
 </p>
 
 <p align="center">
-  <a href="mailto:gandhamprakashtech@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gandhamkumarnslprakash"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/gandhamprakashtech"><img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@TechnoDevilX"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-  <a href="https://x.com/GandhamPrakash_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:gandhamprakashtech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gandhamkumarnslprakash">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gandhamprakashtech">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@TechnoDevilX">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://x.com/GandhamPrakash_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+  </a>
 </p>
-
 
 ---
 
 ## 👨‍🎓 About Me
 
--B.Tech Graduate in Computer Science. I specialize in building beautiful, interactive web applications using modern technologies such as Next.js, React.js, animation libraries, UI libraries, and Tailwind CSS. 
--I am constantly exploring new tools and frameworks to create optimized user experiences.
-- 🚀 Passionate about building **impactful tech for real-world problems** 
+- 🎓 B.Tech Graduate in Computer Science  
+- 💻 Passionate about building **modern, responsive, and scalable web applications**  
+- ⚙️ Experienced with **React.js, Next.js, Tailwind CSS, backend APIs, and databases**  
+- 🌱 Constantly exploring new tools and frameworks to improve user experience  
+- 🚀 Focused on building **impactful solutions for real-world problems**
 
 ---
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ## 🔧 Tech Stack & Tools
 
-### Languages
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 💻 Programming Languages
+- C++
+- Python
+- Java
+- JavaScript
 
+### 🎨 Frontend
+- HTML5, CSS3
+- JavaScript, TypeScript
+- React.js
+- Bootstrap
+- Tailwind CSS
 
-### Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+### ⚙️ Backend & Databases
+- Node.js
+- Firebase
+- MongoDB
+- Supabase
 
-### Backend & DB
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+### 🛠️ Tools & Platforms
+- Git & GitHub
+- VS Code
+- Figma
+- Vercel
 
 ---
 
 ## 🏆 Achievements
-- 📄 Published **2 Research Papers** in **Machine Learning** and **Remote Sensing (IEEE)**
-- 🤖 Participant, **Global AI Bootcamp** 2025 at Microsoft Campus, Hyderabad
-- 🌐 **30K+** Impressions on LinkedIn for technical content & knowledge sharing
-- 🥇 **Top 1%** Rank (24th State Rank) in APECET 2022
-- 🚀 **Finalist** at Synthetix 3.0 Hackathon, VIT Chennai
-- 🚀 Part of **Ratan Tata Innovation Hub** initiative at Vijayawada Collectorate.
-- 🥇 **2nd Place**, VRSEC Innovation Day 2023
-- 🏆 **Awarded** First Prize by UnivBrand for Outstanding Academic Performance
-- 🏆 **Top 5%** Rank in AP Polycet 2019
+
+- 📄 Published **2 Research Papers** in **Machine Learning & Remote Sensing (IEEE)**
+- 🤖 Participant, **Global AI Bootcamp 2025**, Microsoft Campus – Hyderabad
+- 🌐 Achieved **30K+ LinkedIn impressions** through technical knowledge sharing
+- 🥇 **Top 1% Rank (24th State Rank)** in APECET 2022
+- 🚀 **Finalist**, Synthetix 3.0 Hackathon – VIT Chennai
+- 🏛️ Contributor under **Ratan Tata Innovation Hub**, Vijayawada
+- 🥈 **2nd Place**, VRSEC Innovation Day 2023
+- 🏆 Awarded **First Prize** by UnivBrand for Academic Excellence
+- 🏆 **Top 5% Rank**, AP Polycet 2019
 
 ---
 
 ## 🚀 Featured Projects
 
-🌱 PlantDarbar – Sustainable E-Commerce Platform
+### 🌱 PlantDarbar – Sustainable E-Commerce Platform
+Designed and developed a full-stack e-commerce platform focused on sustainable gardening solutions.  
+The system includes product listings, order management, content-driven pages, and a custom admin dashboard.  
+Implemented responsive UI, secure backend APIs, and optimized performance for smooth cross-device experience.
 
-Designed and developed a full-stack e-commerce web application focused on sustainable gardening solutions. The platform supports product listings, order management, and content-driven pages with a custom admin panel. Implemented responsive UI, secure backend APIs, and optimized performance for smooth user experience across devices.
+**Tech Stack:** React.js, Node.js, REST APIs, HTML5, CSS3, Tailwind CSS, Supabase  
+🔗 **Live Project:** [PlantDarbar](https://plantdarbar.com)
 
-Tech Stack: React.js, Node.js, REST APIs, HTML5, CSS3, Tailwind CSS, Supabase
-🔗 Live Project: [PlantDarbar](plantdarbar.com)
+---
 
-🏏 SportsTribe – Sports News & Community Platform
+### 🏏 SportsTribe – Sports News & Community Platform
+Built a dynamic sports news and community platform delivering real-time national and international sports updates.  
+Integrated external APIs for live data and focused on clean UI, performance optimization, and scalable frontend design.
 
-Built a dynamic sports news and community platform delivering real-time national and international sports updates. The application integrates external APIs to fetch live sports news and presents it through a clean, user-friendly interface. Focused on performance optimization, responsive design, and scalable frontend architecture.
+**Tech Stack:** HTML5, CSS3, JavaScript, REST APIs  
+🔗 **Live Project:** [SportsTribe](https://sportstribenew.vercel.app/)
 
-Tech Stack: HTML5, CSS3, JavaScript, REST APIs
-🔗 Live Project: [SportsTribe](https://sportstribenew.vercel.app/)
+---
 
+### 🛰️ Satellite-Based Airport Detection (ISRO & ADRIN)
+YOLOv8-powered remote sensing ML pipeline to detect airport facilities from satellite images with **95%+ accuracy**.  
+📄 **Published in IEEE:**  
+[A Novel Approach to Identify the Airport Facility from Satellite Images](https://ieeexplore.ieee.org/document/10969333)
 
-### 🛰️ Satellite-Based Airport Detection (with ISRO & ADRIN)
-> A YOLOv8-powered remote sensing ML pipeline to detect airport facilities with 95%+ accuracy.  
-> 📄 Published in IEEE: [A Novel Approach to Identify the Airport Facility from Satellite Images](https://ieeexplore.ieee.org/document/10969333)
-
+---
 
 ### 🦐 Shrimp Quality Grading System
-> An ML, IoT, and CV-based grading system helping aqua farmers boost efficiency and cut costs by 25%.
+An **ML, IoT, and Computer Vision-based system** designed to automate shrimp quality assessment,  
+helping aqua farmers improve efficiency and reduce operational costs by **25%**.
 
---
+---
 
-## 📫 Let's Connect <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
-📧 [gandhamprakashtech@gmail.com](mailto:gandhamprakashtech@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/gandhamkumarnslprakash)  
-👨‍💻 [GitHub](https://github.com/gandhamprakashtech)
+## 📫 Let’s Connect 🤝
 
+📧 Email: [gandhamprakashtech@gmail.com](mailto:gandhamprakashtech@gmail.com)  
+🔗 LinkedIn: [Gandham Prakash](https://www.linkedin.com/in/gandhamkumarnslprakash)  
+👨‍💻 GitHub: [github.com/gandhamprakashtech](https://github.com/gandhamprakashtech)
