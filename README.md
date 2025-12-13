@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gandham Prakash 👋</h1>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a2264359-6bf5-4daa-acdd-61c1e457bd31" /><h1 align="center">Hi, I'm Gandham Prakash 👋</h1>
 <p align="center">
   🚀 CS Graduate | 💻 Software Developer 🌐 Crafting Modern Web Applications | 🌐 Web Development Enthusiast
 </p>
@@ -82,14 +82,14 @@
 Designed and developed a full-stack e-commerce web application focused on sustainable gardening solutions. The platform supports product listings, order management, and content-driven pages with a custom admin panel. Implemented responsive UI, secure backend APIs, and optimized performance for smooth user experience across devices.
 
 Tech Stack: React.js, Node.js, REST APIs, HTML5, CSS3, Tailwind CSS, Supabase
-🔗 Live Project: [plantdarbar.com]
+🔗 Live Project: [PlantDarbar](plantdarbar.com)
 
 🏏 SportsTribe – Sports News & Community Platform
 
 Built a dynamic sports news and community platform delivering real-time national and international sports updates. The application integrates external APIs to fetch live sports news and presents it through a clean, user-friendly interface. Focused on performance optimization, responsive design, and scalable frontend architecture.
 
 Tech Stack: HTML5, CSS3, JavaScript, REST APIs
-🔗 Live Project: [sportstribenew.vercel.app]
+🔗 Live Project: [SportsTribe](https://sportstribenew.vercel.app/)
 
 
 ### 🛰️ Satellite-Based Airport Detection (with ISRO & ADRIN)
