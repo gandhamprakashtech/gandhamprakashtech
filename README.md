@@ -84,9 +84,12 @@ Designed and developed a full-stack e-commerce web application focused on sustai
 Tech Stack: React.js, Node.js, REST APIs, HTML5, CSS3, Tailwind CSS, Supabase
 🔗 Live Project: [plantdarbar.com]
 
-### 🌱 Plantdarbar
->Developed a full-stack sustainable e-commerce platform specializing in upcycled plant containers and eco-friendly gardening services. This project taught me how to build custom admin dashboards, implement file upload systems, and create responsive designs with modern CSS techniques.
->ReactJS, Node.js, RESTful API, HTML5/CSS3, TailwindCSS, Supabase.  [Link](https://www.plantdarbar.com/)
+🏏 SportsTribe – Sports News & Community Platform
+
+Built a dynamic sports news and community platform delivering real-time national and international sports updates. The application integrates external APIs to fetch live sports news and presents it through a clean, user-friendly interface. Focused on performance optimization, responsive design, and scalable frontend architecture.
+
+Tech Stack: HTML5, CSS3, JavaScript, REST APIs
+🔗 Live Project: [sportstribenew.vercel.app]
 
 
 ### 🛰️ Satellite-Based Airport Detection (with ISRO & ADRIN)
