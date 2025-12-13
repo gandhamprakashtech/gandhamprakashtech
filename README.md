@@ -77,8 +77,12 @@
 
 ## 🚀 Featured Projects
 
-### 🛍️ Stumart – Campus Stationery Exchange
->Developed a cross-platform mobile application with React Native and Firebase, facilitating real-time resource sharing for 1000+ students across campus departments. Integrated real-time data synchronization, secure user authentication, and a scalable backend architecture to enhance usability and performance.
+🌱 PlantDarbar – Sustainable E-Commerce Platform
+
+Designed and developed a full-stack e-commerce web application focused on sustainable gardening solutions. The platform supports product listings, order management, and content-driven pages with a custom admin panel. Implemented responsive UI, secure backend APIs, and optimized performance for smooth user experience across devices.
+
+Tech Stack: React.js, Node.js, REST APIs, HTML5, CSS3, Tailwind CSS, Supabase
+🔗 Live Project: [plantdarbar.com]
 
 ### 🌱 Plantdarbar
 >Developed a full-stack sustainable e-commerce platform specializing in upcycled plant containers and eco-friendly gardening services. This project taught me how to build custom admin dashboards, implement file upload systems, and create responsive designs with modern CSS techniques.
