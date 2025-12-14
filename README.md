@@ -116,3 +116,4 @@ helping aqua farmers improve efficiency and reduce operational costs by **25%**.
 📧 Email: [gandhamprakashtech@gmail.com](mailto:gandhamprakashtech@gmail.com)  
 🔗 LinkedIn: [Gandham Prakash](https://www.linkedin.com/in/gandhamkumarnslprakash)  
 👨‍💻 GitHub: [github.com/gandhamprakashtech](https://github.com/gandhamprakashtech)
+🐦 Twitter: [Gandham Prakash](https://x.com/GandhamPrakash_)
