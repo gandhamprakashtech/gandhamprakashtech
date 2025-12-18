@@ -27,7 +27,7 @@ Crafting modern, scalable, and user-focused web applications
 
 ## 👨‍🎓 About Me
 
-- 🎓 B.Tech Graduate in Computer Science  
+- 🎓 B.Tech Graduate in Computer Science and Engineering
 - 💻 Passionate about building **modern, responsive, and scalable web applications**  
 - ⚙️ Experienced with **React.js, Next.js, Tailwind CSS, backend APIs, and databases**  
 - 🌱 Constantly exploring new tools and frameworks to improve user experience  
@@ -67,7 +67,7 @@ Crafting modern, scalable, and user-focused web applications
 
 - 📄 Published **2 Research Papers** in **Machine Learning & Remote Sensing (IEEE)**
 - 🤖 Participant, **Global AI Bootcamp 2025**, Microsoft Campus – Hyderabad
-- 🌐 Achieved **30K+ LinkedIn impressions** through technical knowledge sharing
+- 🌐 Achieved **35K+ LinkedIn impressions** through technical knowledge sharing
 - 🥇 **Top 1% Rank (24th State Rank)** in APECET 2022
 - 🚀 **Finalist**, Synthetix 3.0 Hackathon – VIT Chennai
 - 🏛️ Contributor under **Ratan Tata Innovation Hub**, Vijayawada
