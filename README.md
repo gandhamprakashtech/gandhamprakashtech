@@ -37,7 +37,7 @@ Crafting modern, scalable, and user-focused web applications
 ## 🔧 Tech Stack & Tools
 
 ### 💻 Programming Languages
-- C++
+- C/C++
 - Python
 - Java
 - JavaScript
@@ -46,14 +46,12 @@ Crafting modern, scalable, and user-focused web applications
 - HTML5, CSS3
 - JavaScript, TypeScript
 - React.js
-- Bootstrap
 - Tailwind CSS
 
 ### ⚙️ Backend & Databases
 - Node.js
-- Firebase
+- Firebase, Supabase
 - MongoDB
-- Supabase
 
 ### 🛠️ Tools & Platforms
 - Git & GitHub
