@@ -63,10 +63,10 @@ Crafting modern, scalable, and user-focused web applications
 
 ## 🏆 Achievements
 
+- 🥇 **Top 1% Rank (24th State Rank)** in APECET 2022
 - 📄 Published **2 Research Papers** in **Machine Learning & Remote Sensing (IEEE)**
 - 🤖 Participant, **Global AI Bootcamp 2025**, Microsoft Campus – Hyderabad
 - 🌐 Achieved **35K+ LinkedIn impressions** through technical knowledge sharing
-- 🥇 **Top 1% Rank (24th State Rank)** in APECET 2022
 - 🚀 **Finalist**, Synthetix 3.0 Hackathon – VIT Chennai
 - 🏛️ Contributor under **Ratan Tata Innovation Hub**, Vijayawada
 - 🥈 **2nd Place**, VRSEC Innovation Day 2023
