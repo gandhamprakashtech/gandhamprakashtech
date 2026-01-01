@@ -30,10 +30,8 @@ Crafting modern, scalable, and user-focused web applications
 - 🎓 2025 B.Tech Graduate in Computer Science and Engineering
 - 🏢 Co-Founder at **Sarvadhara Tech Innovations Pvt Ltd.**
 - 💻 Passionate about building **modern, responsive, and scalable web applications**  
-- ⚙️ Experienced with **React.js, Next.js, Tailwind CSS, APIs, and databases**  
-- 🌱 Constantly exploring new tools and frameworks to improve user experience  
-- 🚀 Focused on building **impactful solutions for real-world problems**
-
+- ⚙️ Experienced with **React.js, Next.js, Tailwind CSS, APIs, and databases**
+  
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> </picture> </div>
 ## 🔧 Tech Stack & Tools
 
