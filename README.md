@@ -29,7 +29,7 @@ Crafting modern, scalable, and user-focused web applications
 
 - 🎓 2025 B.Tech Graduate in Computer Science and Engineering
 - 💻 Passionate about building **modern, responsive, and scalable web applications**  
-- ⚙️ Experienced with **React.js, Next.js, Tailwind CSS, backend APIs, and databases**  
+- ⚙️ Experienced with **React.js, Next.js, Tailwind CSS, APIs, and databases**  
 - 🌱 Constantly exploring new tools and frameworks to improve user experience  
 - 🚀 Focused on building **impactful solutions for real-world problems**
 
@@ -100,12 +100,6 @@ Integrated external APIs for live data and focused on clean UI, performance opti
 YOLOv8-powered remote sensing ML pipeline to detect airport facilities from satellite images with **95%+ accuracy**.  
 📄 **Published in IEEE:**  
 [A Novel Approach to Identify the Airport Facility from Satellite Images](https://ieeexplore.ieee.org/document/10969333)
-
----
-
-### 🦐 Shrimp Quality Grading System
-An **ML, IoT, and Computer Vision-based system** designed to automate shrimp quality assessment,  
-helping aqua farmers improve efficiency and reduce operational costs by **25%**.
 
 ---
 
