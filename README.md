@@ -70,7 +70,7 @@ Crafting modern, scalable, and user-focused web applications
 - 🏛️ Contributor under **Ratan Tata Innovation Hub**, Vijayawada
 - 🥈 **2nd Place**, VRSEC Innovation Day 2023
 - 🏆 Awarded **First Prize** by UnivBrand for Academic Excellence
-- 🏆 **Top 5% Rank**, AP Polycet 2019
+- 🏆 **Top 5% Rank**, AP POLYCET 2019
 
 ---
 
