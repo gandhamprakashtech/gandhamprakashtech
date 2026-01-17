@@ -96,7 +96,7 @@ Integrated external APIs for live data and focused on clean UI, performance opti
 ---
 
 ### 🛰️ Satellite-Based Airport Detection (ISRO & ADRIN)
-YOLOv8-powered remote sensing ML pipeline to detect airport facilities from satellite images with **95%+ accuracy**.  
+YOLOv8-powered remote sensing ML pipeline to detect airport facilities from satellite images with **90%+ accuracy**.  
 📄 **Published in IEEE:**  
 [A Novel Approach to Identify the Airport Facility from Satellite Images](https://ieeexplore.ieee.org/document/10969333)
 
