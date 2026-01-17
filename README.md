@@ -44,7 +44,7 @@ Crafting modern, scalable, and user-friendly web applications
 ### 🎨 Frontend
 - HTML5, CSS3
 - JavaScript, TypeScript
-- React.js
+- React.js, Next.js
 - Tailwind CSS
 
 ### ⚙️ Backend & Databases
