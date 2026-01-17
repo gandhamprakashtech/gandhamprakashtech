@@ -2,7 +2,7 @@
 
 <p align="center">
 🚀 CS Graduate | 💻 Software Developer | 🌐 Web Development Enthusiast  
-Crafting modern, scalable, and user-focused web applications
+Crafting modern, scalable, and user-friendly web applications
 </p>
 
 <p align="center">
