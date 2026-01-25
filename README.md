@@ -53,7 +53,7 @@ Crafting modern, scalable, and user-friendly web applications
 - MongoDB
 
 ### 🛠️ Tools & Platforms
-- Git & GitHub
+- Git&GitHub
 - VS Code
 - Figma
 - Vercel
