@@ -75,6 +75,14 @@ Crafting modern, scalable, and user-friendly web applications
 ---
 
 ## 🚀 Featured Projects
+🛒 LocalBaazaar – Hyperlocal E-Commerce Platform
+
+Developed a hyperlocal e-commerce platform designed to connect buyers and sellers within a specific community or campus.
+The platform enables users to buy and sell products like stationery, electronics, and books with ease.
+Focused on seamless user experience, real-time listings, secure authentication, and efficient product management.
+
+Tech Stack: React.js, Node.js / Firebase, REST APIs, HTML5, CSS3
+🔗 Live Project: LocalBaazaar
 
 ### 🌱 PlantDarbar – Sustainable E-Commerce Platform
 Designed and developed a full-stack e-commerce platform focused on sustainable gardening solutions.  
