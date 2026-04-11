@@ -82,7 +82,7 @@ The platform enables users to buy and sell products like stationery, electronics
 Focused on seamless user experience, real-time listings, secure authentication, and efficient product management.
 
 Tech Stack: React.js, Node.js / Firebase, REST APIs, HTML5, CSS3
-🔗 Live Project: LocalBaazaar
+🔗 **Live Project:** [PlantDarbar](https://www.localbaazaar.com/)
 
 ### 🌱 PlantDarbar – Sustainable E-Commerce Platform
 Designed and developed a full-stack e-commerce platform focused on sustainable gardening solutions.  
