@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gandham Prakash 👋</h1>
 
 <p align="center">
-🚀 CS Graduate | 💻 Software Developer | 🌐 Webapp Development Enthusiast  
+🚀 CS Graduate | 💻 Software Developer | 🌐 Web-app Development Enthusiast  
 Crafting modern, scalable, and user-friendly web applications
 </p>
 
@@ -27,7 +27,7 @@ Crafting modern, scalable, and user-friendly web applications
 
 ## 👨‍🎓 About Me
 
-- 🎓 2025 B.Tech Graduate in Computer Science and Engineering
+- 🎓 2025 B.Tech CSE Graduate in Computer Science and Engineering
 - 🏢 Co-Founder at **Sarvadhara Tech Innovations Pvt Ltd.**
 - 💻 Passionate about building **modern, responsive, and scalable web applications**  
 - ⚙️ Experienced with **React.js, Next.js, Tailwind CSS, APIs, and databases**
@@ -53,10 +53,10 @@ Crafting modern, scalable, and user-friendly web applications
 - MongoDB
 
 ### 🛠️ Tools & Platforms
-- Git&GitHub
+- Git & GitHub
 - VS Code
 - Figma
-- Vercel
+- Vercel, Render
 
 ---
 
