@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gandham Prakash 👋</h1>
+<h1 align="center">Hi, I'm Prakash Gandham 👋</h1>
 
 <p align="center">
 🚀 CS Graduate | 💻 Software Developer | 🌐 Web-app Development Enthusiast  
