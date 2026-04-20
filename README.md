@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Prakash Gandham 👋</h1>
 
 <p align="center">
-🚀 CS Graduate | 💻 Software Developer | 🌐 Web-app Development Enthusiast  
+🚀 CS Graduate | 💻 Software Developer | 🌐 Web-application Development Enthusiast  
 Crafting modern, scalable, and user-friendly web applications
 </p>
 
