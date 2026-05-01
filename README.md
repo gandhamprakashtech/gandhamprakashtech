@@ -28,7 +28,7 @@ Crafting modern, scalable, and user-friendly web applications
 ## 👨‍🎓 About Me
 
 - 🎓 2025 B.Tech CSE Graduate in Computer Science and Engineering
-- 🏢 Co-Founder at **Sarvadhara Tech Innovations Pvt Ltd**
+- 🏢 Tech Lead at **Sarvadhara Tech Innovations Pvt Ltd**
 - 💻 Passionate about building **modern, responsive, and scalable web applications**  
 - ⚙️ Experienced with **React.js, Next.js, Tailwind CSS, APIs, and databases**
   
