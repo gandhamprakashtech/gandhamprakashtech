@@ -117,6 +117,10 @@ YOLOv8-powered remote sensing ML pipeline to detect airport facilities from sate
 👨‍💻 GitHub: [github.com/gandhamprakashtech](https://github.com/gandhamprakashtech)  
 📸 Instagram: [Gandham Prakash](https://www.instagram.com/prakash_gandham_)  
 🐦 Twitter: [Gandham Prakash](https://x.com/GandhamPrakash_)  
-▶️ YouTube: [TechnoDevilX](https://www.youtube.com/@TechnoDevilX)  
-🌐 Portfolio: [Gandham Prakash](https://gandhamprakash.netlify.app/)
+▶️ YouTube: [TechnoDevilX](https://www.youtube.com/@gandhamprakash/)  
+🌐 Portfolio: [Gandham Prakash](https://gandhamprakash.vercel.app/)
+
+
+
+
 
