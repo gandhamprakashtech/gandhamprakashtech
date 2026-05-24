@@ -29,7 +29,7 @@ Crafting modern, scalable, and user-friendly web applications
 
 - 🎓 2025 B.Tech CSE Graduate in Computer Science and Engineering
 - 🏢 Tech Lead at **Sarvadhara Tech Innovations Pvt Ltd**
-- 💻 Passionate about building **modern, responsive, and scalable web applications**  
+- 💻 Passionate about building **modern, responsive scalable web and mobile applications**  
 - ⚙️ Experienced with **React.js, Next.js, Tailwind CSS, APIs, and databases**
   
 <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"> </picture> </div>
